@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.x-orange.svg)
 ![MediaPipe](https://img.shields.io/badge/Mediapipe-Enabled-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 **AI Gym Tracker** is a multimodal fitness web application that uses real-time pose estimation and deep learning to track exercises, count repetitions, and evaluate workout performance using a webcam interface. It combines gesture recognition, audio-visual feedback, and intelligent classification for an interactive workout experience.
 
@@ -43,6 +43,8 @@
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
+
+```bash
 git clone <repo_url>
 cd <repo_directory>
 
