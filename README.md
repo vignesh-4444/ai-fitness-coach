@@ -41,6 +41,8 @@
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
 
+---
+
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
