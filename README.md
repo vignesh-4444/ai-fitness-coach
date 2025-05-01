@@ -60,11 +60,11 @@ python app.py
 
 ✅ Requirements
 
-**Python 3.7+**
+Python 3.7+
 
-**Webcam-enabled device**
+Webcam-enabled device
 
-**Chrome or any modern browser**
+Chrome or any modern browser
 
-**Internet connection for model inference**
+Internet connection for model inference
 
