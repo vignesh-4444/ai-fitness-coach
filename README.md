@@ -46,27 +46,33 @@
 
 ## ⚙️ Getting Started
 
-```
+### 1. Clone the Repository
 
-1. Clone the Repository
-
+```bash
 git clone <repo_url>
 cd <repo_directory>
+```
 
-2. Set Up Virtual Environment
+### 2. Set Up Virtual Environment
 
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
-3. Install Dependencies
+### 3. Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-4. Run the App
+### 4. Run the App
+
+```bash
 python app.py
-
 ``` 
 
-✅ Requirements
+## ✅ Requirements
 
 - Python 3.7+
 
